@@ -4,9 +4,9 @@
 <h3 align="center">Sou um jovem Dev que procura ajudar os outros pela tecnologia.</h3>
 <img align="right" alt="Codando" width="250" src="https://media.tenor.com/drxH1lO9cfEAAAAj/dark-souls-bonfire.gif">
 
-- 🔭 Atualmente estou trabalhando em um projeto de **E-Commerce**
+- 🔭 Atualmente estou trabalhando em um projeto de **Portfolio 3D**
 
-- 🌱 Estou atualmente aprendendo **Python e Django**
+- 🌱 Estou atualmente aprendendo **Javascript e React**
 
 - 📩 Pode entrar em contato comigo por **https://www.linkedin.com/in/matheus-gonçalves-machado/**
 
