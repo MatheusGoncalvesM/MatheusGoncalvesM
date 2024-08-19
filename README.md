@@ -8,7 +8,7 @@
 
 - 🌱 Estou atualmente aprendendo **Javascript e React**
 
-- 📩 Pode entrar em contato comigo por **https://www.linkedin.com/in/matheus-gonçalves-machado/**
+- 📩 Pode entrar em contato comigo pelo Linkedin: **https://www.linkedin.com/in/matheus-gonçalves-machado/**
 
 - ⚡ Fato curioso : **Faço vídeos sobre diversos assuntos no Youtube!**
 
