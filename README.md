@@ -4,7 +4,7 @@
 <h3 align="center">Sou um jovem Dev que procura ajudar os outros pela tecnologia.</h3>
 <img align="right" alt="Codando" width="250" src="https://media.tenor.com/drxH1lO9cfEAAAAj/dark-souls-bonfire.gif">
 
-- 🔭 Atualmente estou trabalhando em um projeto de **Portfolio 3D**
+- 🔭 Atualmente estou trabalhando em um projeto de **Loja de Música**
 
 - 🌱 Estou atualmente aprendendo **Javascript e React**
 
