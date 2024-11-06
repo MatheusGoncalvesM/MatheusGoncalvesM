@@ -1,16 +1,16 @@
 ![MasterHead](https://skunkapetreestands.com/wp-content/uploads/2019/08/Dark-Woods-Banner.jpg)
 
-<h1 align="center">Olá, meu nome é ellen joe!</h1>
-<h3 align="center">Sou um jovem Dev que procura ajudar os outros pela waifu/h3>
+<h1 align="center">Olá, meu nome é Matheus!</h1>
+<h3 align="center">Sou um jovem Dev que procura ajudar os outros pela tecnologia.>
 <img align="right" alt="Codando" width="250" src="https://media.tenor.com/drxH1lO9cfEAAAAj/dark-souls-bonfire.gif">
 
 - 🔭 Atualmente estou trabalhando em um projeto de **Loja de Música**
 
-- 🌱 Estou atualmente **Java**
+- 🌱 Estou atualmente **Javascript e React**
 
-- 📩 Pode entrar em contato comigo pelo Linkedin: **https://www.linkedin.com/in/pablo_marcal/**
+- 📩 Pode entrar em contato comigo pelo Linkedin: **https://www.linkedin.com/in/matheus-g-machado/**
 
-<h3 align="left">fejoada de peru uhum:</h3>
+<h3 align="left">Projetos em andamento</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/matheus-gonçalves-machado-64b7a1286/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matheus-gonçalves-machado-64b7a1286/" height="399" width="4o jogo" /></a>
 <a href="https://www.instagram.com/matheusgmachado/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/matheusgmachado/" height="30" width="40" /></a>
