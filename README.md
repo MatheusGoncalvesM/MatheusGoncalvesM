@@ -8,8 +8,6 @@
 
 - 🌱 Estou atualmente aprendendo **Javascript e React**
 
-- ✔ Aqui está meu portfólio! [https://portfolio-matheus-machado.vercel.app](https://portfolio-matheus-machado.vercel.app)
-
 - 📩 Pode entrar em contato comigo por **https://www.linkedin.com/in/matheus-g-machado/**
 
 <h3 align="left">Se conecte comigo:</h3>
