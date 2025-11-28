@@ -4,7 +4,7 @@
 <h1 align="center">Olá, meu nome é Matheus!</h1>
 <h3 align="center">Sou um jovem Dev que procura ajudar os outros pela tecnologia.</h3>
 
-- 🔭 Atualmente estou trabalhando em uma **Site para Escrita**
+- 🔭 Atualmente estou trabalhando em um **Site para Escrita**
 - ✔  Entre em contato aqui: https://portfolio-matheus-machado.vercel.app/
 - 🌱 Estou atualmente aprendendo **Javascript e React pela DIO**
 
